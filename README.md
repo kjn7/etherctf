@@ -6,5 +6,5 @@ Tested with Remix IDE.
 
 2. deploy exploit contract from another account, it will be FallbackExploit
 
-3. call exploit() function on FallbackExploit contract with a required amount of ether
+3. call exploit() function of FallbackExploit contract with a required amount of ether
 
